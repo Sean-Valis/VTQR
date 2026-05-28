@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bastioncyber.vtqr.app-mergeDebugResources-37:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sean\\.gradle\\caches\\8.9\\transforms\\e20574dba3fa7bec4cf63d793b81c7c5\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

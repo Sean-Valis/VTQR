@@ -1,0 +1,6 @@
+com.bastioncyber.vtqr.test.app-annotation-experimental-1.4.0-0 C:\Users\Sean\.gradle\caches\8.9\transforms\0447c7fe6414ada9d7bae2d2257582ca\transformed\annotation-experimental-1.4.0\res
+com.bastioncyber.vtqr.test.app-core-1.5.0-1 C:\Users\Sean\.gradle\caches\8.9\transforms\cf70c90a93dd4693b7435d27cf385ae6\transformed\core-1.5.0\res
+com.bastioncyber.vtqr.test.app-androidTest-2 C:\Users\Sean\AndroidStudioProjects\vtqr3\app\build\generated\res\resValues\androidTest\debug
+com.bastioncyber.vtqr.test.app-mergeDebugAndroidTestResources-3 C:\Users\Sean\AndroidStudioProjects\vtqr3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.bastioncyber.vtqr.test.app-mergeDebugAndroidTestResources-4 C:\Users\Sean\AndroidStudioProjects\vtqr3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.bastioncyber.vtqr.test.app-debugAndroidTest-5 C:\Users\Sean\AndroidStudioProjects\vtqr3\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
